@@ -17,4 +17,5 @@ For questions or technical support, you can contact me at **adamsokacz@gmail.com
 * How to aggregate sensor data into databases and use SQL queries to parse data out of databases
 * How to build mini .NET C# desktop applications to visualize and interact with your stored data
 * How to use version control tools like Git and GitHub to publish and collaborate on software projects
+* Use Python as a compatibility layer to connect varios parts of your network
 

@@ -5,7 +5,8 @@
 
 ## Lab01 - User Interface
 
-* [Page 2](lab01-user-interface/page-2.md)
+* [Questions](lab01-user-interface/questions.md)
+* [Assignment](lab01-user-interface/assignment.md)
 
 ## Lab02 - WiFi
 
