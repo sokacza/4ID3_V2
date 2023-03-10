@@ -1,74 +1,10 @@
 # L01\_WiFi
 
-![](../.gitbook/assets/0.png)
-
-4ID3 - IoT Devices and Networks
-
-Lab 1
-
-Communicating Sensor Data over WiFi using MQTT
-
-Adam Sokacz
-
-Salman Bawa
-
-Group Number:
-
-Name, Student Number:
-
-Name, Student Number:
-
-Name, Student Number:
-
-Submission Date:
-
 ### Objective <a href="#_toc124977033" id="_toc124977033"></a>
 
 A practice-based understanding on the “things” of the Internet of Things, and the “Internet” of the Internet of Things, including temperature, pressure, humidity, and light intensity sensors, connected to ESP 8266 microcontroller (with Publication-Subscription client), communicating over 802.11ah WiFi to an MQTT server on cloud, corresponding with Node-Red application, showcasing outcome in a Node-Red user interface.
 
-Contents
 
-Objective 2
-
-Feedback 3
-
-Additional Resources 3
-
-Pre-Lab Questions 4
-
-Post-Lab Questions 4
-
-Setting up the Workspace 5
-
-Wiring Diagram 11
-
-Reading Sensor Data 13
-
-Publishing to an MQTT Broker 22
-
-Public Broker (Easy Way) 22
-
-Local Broker (Hard Way) 22
-
-Hotspotting your Microcontroller 26
-
-Code Changes 28
-
-Verifying Connection 32
-
-Mosquitto Terminal Application 32
-
-Using a Mobile Application 34
-
-NodeRED Dashboard 37
-
-Visualizing NodeRED Data 42
-
-Saving and Pushing Your Project 48
-
-Exporting a NodeRED Flow as JSON 48
-
-Committing and Pushing Changes to GitHub 50
 
 ### Feedback <a href="#_toc124977034" id="_toc124977034"></a>
 
