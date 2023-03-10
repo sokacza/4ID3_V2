@@ -13,6 +13,7 @@
 ## Lab02 - WiFi
 
 * [Page 1](lab02-wifi/page-1.md)
+* [L01\_WiFi](lab02-wifi/l01\_wifi.md)
 
 ## Lab03 - Bluetooth
 
