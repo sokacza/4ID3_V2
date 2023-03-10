@@ -35,39 +35,9 @@ _(1 = no, 5 = yes)_
 | **1** | **2** | **3** | **4** | **5** |
 | ----- | ----- | ----- | ----- | ----- |
 
-### Additional Resources <a href="#_toc124977035" id="_toc124977035"></a>
+### &#x20;<a href="#_toc124977035" id="_toc124977035"></a>
 
-Arduino Programming Refresher ( [https://youtu.be/CbJHL\_P5RJ8](https://youtu.be/CbJHL\_P5RJ8) )
 
-Mosquitto MQTT Broker Tutorial ( [https://youtu.be/DH-VSAACtBk](https://youtu.be/DH-VSAACtBk) )
-
-NodeRED Fundamentals Tutorial ( [https://youtu.be/3AR432bguOY](https://youtu.be/3AR432bguOY) )
-
-ESP8266 Overview ( [https://youtu.be/dGrJi-ebZgI](https://youtu.be/dGrJi-ebZgI) )
-
-### Pre-Lab Questions <a href="#_toc124977036" id="_toc124977036"></a>
-
-Q1 - In your own words, describe the publish-subscribe messaging pattern. What role does the broker play? What role do the clients play? What is a topic?
-
-Q2 - In your own words, what does QoS mean for MQTT transmissions?
-
-Q3 - Define LAN and the role of IP addresses in communicating between computers over a LAN.
-
-### Post-Lab Questions <a href="#_toc124977037" id="_toc124977037"></a>
-
-Q1 - Explain your observations in Node-Red user interface as you interact with the sensors. Is the change instantaneous?
-
-Q2 - Turn the microcontroller power off; is the Node-Red application still connected to the MQTT server? Why is sensor reading not being registered in the Node-Red user interface?
-
-Q3 - Turn the microcontroller power on, and turn the Node-Red application off. Is the Node-Red application still connected to the MQTT server? The sensor reading is not being registered in the Node-Red user interface, but is the sensor still communicating with the MQTT server?
-
-Q4 - Would it be reasonable to implement a WiFi sensor network across a forest? Across a city? Describe how geographical factors, environmental factors, etc. influence your choice of access technology.
-
-Q5 - List 3 practical applications of WiFi sensor networks that would benefit your school or neighbourhood community.
-
-Q6 - List 3 security concerns of this network. How might these concerns be mitigated?
-
-Q7 - Below, write a 3 sentence LinkedIn post about key learning takeaways from this lab.
 
 ### Setting up the Workspace <a href="#_toc124977038" id="_toc124977038"></a>
 
