@@ -2,7 +2,8 @@
 
 * [About](README.md)
 * [Software](software.md)
-* [Creating a Software Repository](creating-a-software-repository.md)
+* [Git Setup](git-setup.md)
+* [Prerequisite Modules](prerequisite-modules.md)
 
 ## Lab01 - User Interface
 
