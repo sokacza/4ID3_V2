@@ -6,39 +6,6 @@ A practice-based understanding on the “things” of the Internet of Things, an
 
 
 
-### Feedback <a href="#_toc124977034" id="_toc124977034"></a>
-
-Q1 - What would you rate the difficulty of this lab?
-
-_(1 = easy, 5 = difficult)_
-
-| **1** | **2** | **3** | **4** | **5** |
-| ----- | ----- | ----- | ----- | ----- |
-
-Comments about the difficulty of the lab:
-
-Q2 - Did you have enough time to complete the lab within the designated lab time?
-
-Q3 - How easy were the lab instructions to understand?
-
-_(1 = easy, 5 = unclear)_
-
-| **1** | **2** | **3** | **4** | **5** |
-| ----- | ----- | ----- | ----- | ----- |
-
-List any unclear steps:
-
-Q4 - Could you see yourself using the skills learned in this lab to tackle future engineering challenges?
-
-_(1 = no, 5 = yes)_
-
-| **1** | **2** | **3** | **4** | **5** |
-| ----- | ----- | ----- | ----- | ----- |
-
-### &#x20;<a href="#_toc124977035" id="_toc124977035"></a>
-
-
-
 ### Setting up the Workspace <a href="#_toc124977038" id="_toc124977038"></a>
 
 Each lab, we will be creating a new folder in the local git repository that was created in the provided pre-lab to store and document technologies that you have worked on.
