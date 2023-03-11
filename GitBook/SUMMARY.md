@@ -2,14 +2,18 @@
 
 * [About](README.md)
 * [Software](software.md)
+* [Git Setup](git-setup.md)
+* [Prerequisite Modules](prerequisite-modules.md)
 
 ## Lab01 - User Interface
 
-* [Page 2](lab01-user-interface/page-2.md)
+* [Page 1](lab01-user-interface/page-1.md)
 
 ## Lab02 - WiFi
 
-* [Page 1](lab02-wifi/page-1.md)
+* [Questions](lab02-wifi/questions.md)
+* [L01\_WiFi](lab02-wifi/l01\_wifi.md)
+* [Explaination](lab02-wifi/explaination.md)
 
 ## Lab03 - Bluetooth
 
