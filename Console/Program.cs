@@ -1,5 +1,5 @@
 ﻿using Google.Cloud.Firestore;
-
+ 
 public partial class Program {
 
 async Task ReadCollection(CollectionReference q){
