@@ -34,3 +34,4 @@
 ***
 
 * [GitHub Setup](https://youtu.be/ap56ivm0dhw)
+* [Lab03\_Bluetooth](lab03\_bluetooth.md)
