@@ -13,7 +13,7 @@ async Task ReadCollection(CollectionReference q){
         Console.WriteLine(" }, ");
     }
 }
-
+  
 async Task AddToCollection(CollectionReference q, Dictionary<string, object> d){
     await q.AddAsync(d);
 }
