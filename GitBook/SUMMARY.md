@@ -30,3 +30,8 @@
 ## Lab 0 6 - ZigBee
 
 * [Page 4](lab-0-6-zigbee/page-4.md)
+
+***
+
+* [GitHub Setup](https://youtu.be/ap56ivm0dhw)
+* [Lab03\_Bluetooth](lab03\_bluetooth.md)
