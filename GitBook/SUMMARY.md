@@ -2,7 +2,7 @@
 
 * [About](README.md)
 * [Software](software.md)
-* [Prerequisite Modules](prerequisite-modules.md)
+* [Learning Modules](learning-modules.md)
 
 ## Lab00 - Pre Lab Setup
 
