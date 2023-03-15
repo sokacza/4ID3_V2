@@ -8,7 +8,7 @@ MQTT works by the publish-subscribe messaging pattern. This means that remote se
 
 For other devices or a client PC to receive the published data, they must subscribe to the same topic. Devices are allowed duplex communication, in which they subscribe and publish to different topics concurrently.&#x20;
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 When implementing this in code, callback functions are used to handle data being received on any subscribed topics. The following examples identify this clearly:
 
@@ -22,7 +22,7 @@ Notice how the pre-defined callback functions implemented then set to the approp
 
 
 
-```
+```python
 def on_connect(mqttc, obj, flags, rc):
     print("rc: " + str(rc))
 
@@ -55,7 +55,7 @@ To contrast, in C++ a single callback function is defined and if statements must
 
 
 
-```
+```arduino
 void callback(char* topic, byte* message, unsigned int length) {
   Serial.print("Message arrived on topic: ");
   Serial.print(topic);
@@ -88,7 +88,7 @@ void callback(char* topic, byte* message, unsigned int length) {
 
 
 
-```
+```arduino
 const char* ssid = "REPLACE_WITH_YOUR_SSID";
 const char* password = "REPLACE_WITH_YOUR_PASSWORD";
 
