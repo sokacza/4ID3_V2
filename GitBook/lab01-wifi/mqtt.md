@@ -1,13 +1,5 @@
 # MQTT
 
-The goal of lab 1 was to introduce the following ideas:
-
-* Programming wifi-cabable microcontrollers
-* Learn about how to use MQTT in projects
-* NodeRED and visualizing sensor data
-
-### MQTT
-
 MQTT stands for MQ Telemetry Transport
 
 It is a lightweight messaging protocol that was initially developed to manage the industrial sensors on oil pipelines across vast distances. It was rapidly adopted into other industries and expanded on, with other libraries such as ZeroMQ and RabbitMQ.
