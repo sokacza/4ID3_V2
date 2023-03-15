@@ -4,7 +4,7 @@
 
 NodeRED is a graphical data-driven programming tool built on the NodeJS JavaScript runtime. To use it, the user imports libraries of nodes and connects these nodes together to implement logic.&#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 A node that will be used frequently in these labs is the MQTT In node, which allows the user to subscribe to MQTT topics and handle the data that is being subscribed to each topic.
 
@@ -27,7 +27,7 @@ Since NodeJS is a JavaScript runtime, the programming language used inside funct
 
 A popular extension for NodeRED is node-red-dashboard. What it does is it implements easy-to-use nodes that create interactive elements in a dashboard UI.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### Exporting Flows
 
