@@ -10,9 +10,8 @@
 
 ## Lab01 - WiFi
 
-* [Questions](lab02-wifi/questions.md)
-* [L01\_WiFi](lab02-wifi/l01\_wifi.md)
-* [Explaination](lab02-wifi/explaination.md)
+* [Lab01 Word](https://github.com/sokacza/4ID3\_V2/blob/main/Lab01/Instructions/L01\_WiFi.docx)
+* [Lab01 PDF](https://github.com/sokacza/4ID3\_V2/blob/main/Lab01/Instructions/L01\_WiFi.pdf)
 
 ## Lab02 - Bluetooth
 
