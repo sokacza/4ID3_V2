@@ -2,7 +2,8 @@
 
 * [About](README.md)
 * [Software](software.md)
-* [Git Setup](git-setup.md)
+* [GitHub Setup](https://youtu.be/pr8gDpDEh5Q)
+* [MySQL Install](https://youtu.be/FeC5fE8CMWo)
 * [Prerequisite Modules](prerequisite-modules.md)
 
 ## Lab01 - User Interface
