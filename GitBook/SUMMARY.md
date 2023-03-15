@@ -7,6 +7,7 @@
 ## Lab00 - Pre Lab Setup
 
 * [GitHub Setup](https://youtu.be/pr8gDpDEh5Q)
+* [Git Reference Guide](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ## Lab01 - WiFi
 
