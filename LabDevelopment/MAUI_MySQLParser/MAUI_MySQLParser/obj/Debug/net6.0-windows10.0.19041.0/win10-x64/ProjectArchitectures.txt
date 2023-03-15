@@ -1,0 +1,1 @@
+C:\Users\Adam\Documents\4ID3_V2\MAUI_MySQLParser\MAUI_MySQLParser\MAUI_MySQLParser.csproj;x64
