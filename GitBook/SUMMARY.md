@@ -6,33 +6,24 @@
 * [MySQL Install](https://youtu.be/FeC5fE8CMWo)
 * [Prerequisite Modules](prerequisite-modules.md)
 
-## Lab01 - User Interface
+## Lab01 - WiFi
 
-* [Page 1](lab01-user-interface/page-1.md)
+* [Questions](lab01-wifi/questions.md)
+* [L01\_WiFi](lab01-wifi/l01\_wifi.md)
+* [Explaination](lab01-wifi/explaination.md)
 
-## Lab02 - WiFi
+## Lab02 - Bluetooth
 
-* [Questions](lab02-wifi/questions.md)
-* [L01\_WiFi](lab02-wifi/l01\_wifi.md)
-* [Explaination](lab02-wifi/explaination.md)
+* [Page1](lab02-bluetooth/page1.md)
 
-## Lab03 - Bluetooth
+## Lab03 - LoRa
 
-* [Page1](lab03-bluetooth/page1.md)
+* [Page1](lab03-lora/page1.md)
 
-## Lab04 - LoRa
+## Lab04 - LoRaWAN
 
-* [Page1](lab04-lora/page1.md)
+* [Page 3](lab04-lorawan/page-3.md)
 
-## Lab05 - LoRaWAN
+## Lab05 - ZigBee
 
-* [Page 3](lab05-lorawan/page-3.md)
-
-## Lab 0 6 - ZigBee
-
-* [Page 4](lab-0-6-zigbee/page-4.md)
-
-***
-
-* [GitHub Setup](https://youtu.be/ap56ivm0dhw)
-* [Lab03\_Bluetooth](lab03\_bluetooth.md)
+* [Page 4](lab05-zigbee/page-4.md)
