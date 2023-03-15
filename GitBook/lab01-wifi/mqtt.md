@@ -10,9 +10,11 @@ For other devices or a client PC to receive the published data, they must subscr
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-When implementing this in code, callback functions are used to handle data being received on any subscribed topics. The following example identifies this clearly:
+When implementing this in code, callback functions are used to handle data being received on any subscribed topics. The following examples identify this clearly:
 
 {% embed url="https://github.com/eclipse/paho.mqtt.python/blob/master/examples/client_sub.py" %}
+
+{% embed url="https://github.com/knolleary/pubsubclient/tree/master/examples" %}
 
 {% tabs %}
 {% tab title="Python" %}
