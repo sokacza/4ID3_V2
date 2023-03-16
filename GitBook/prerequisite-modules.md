@@ -1,8 +1,10 @@
 ---
-description: For your reference
+description: >-
+  For your reference, to brush up on skills before beginning the lab component
+  of this course.
 ---
 
-# Prerequisite Modules
+# Learning Modules
 
 ### Python Quick Start | LinkedIn Learning
 
@@ -12,10 +14,11 @@ description: For your reference
 
 {% embed url="https://www.linkedin.com/learning-login/share?account=56982905&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-arduino-foundations-2%3Ftrk%3Dshare_ent_url%26shareId%3D766lO9g3QFyGpxbFzEK3Ag%253D%253D" %}
 
+### Understanding Databases | LinkedIn Learning
+
+{% embed url="https://www.linkedin.com/learning-login/share?account=56982905&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fprogramming-foundations-databases-2%3Ftrk%3Dshare_ent_url%26shareId%3D8zKU%252FeprREKetrgZu2aNNA%253D%253D" %}
+
 ### An Introduction to Learning C# | LinkedIn Learning
 
 {% embed url="https://www.linkedin.com/learning-login/share?account=56982905&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-c-sharp-8581491%3Ftrk%3Dshare_ent_url%26shareId%3DFE8w3AwlTwaOy%252BhJRNtvxQ%253D%253D" %}
 
-### Understanding Databases | LinkedIn Learning
-
-{% embed url="https://www.linkedin.com/learning-login/share?account=56982905&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fprogramming-foundations-databases-2%3Ftrk%3Dshare_ent_url%26shareId%3D8zKU%252FeprREKetrgZu2aNNA%253D%253D" %}

@@ -2,36 +2,17 @@
 
 * [About](README.md)
 * [Software](software.md)
-* [Git Setup](git-setup.md)
-* [Prerequisite Modules](prerequisite-modules.md)
+* [Learning Modules](prerequisite-modules.md)
+* [GitHub](https://github.com/sokacza/4ID3\_V2)
 
-## Lab01 - User Interface
+## Lab00 - Pre Lab Setup
 
-* [Page 1](lab01-user-interface/page-1.md)
+* [GitHub Setup](https://youtu.be/pr8gDpDEh5Q)
+* [Git Reference Guide](https://education.github.com/git-cheat-sheet-education.pdf)
 
-## Lab02 - WiFi
+## Lab01 - WiFi
 
-* [Questions](lab02-wifi/questions.md)
-* [L01\_WiFi](lab02-wifi/l01\_wifi.md)
-* [Explaination](lab02-wifi/explaination.md)
-
-## Lab03 - Bluetooth
-
-* [Page1](lab03-bluetooth/page1.md)
-
-## Lab04 - LoRa
-
-* [Page1](lab04-lora/page1.md)
-
-## Lab05 - LoRaWAN
-
-* [Page 3](lab05-lorawan/page-3.md)
-
-## Lab 0 6 - ZigBee
-
-* [Page 4](lab-0-6-zigbee/page-4.md)
-
-***
-
-* [GitHub Setup](https://youtu.be/ap56ivm0dhw)
-* [Lab03\_Bluetooth](lab03\_bluetooth.md)
+* [Lab01 PDF](https://github.com/sokacza/4ID3\_V2/blob/main/Lab01/Instructions/L01\_WiFi.pdf)
+* [Lab01 Word](https://github.com/sokacza/4ID3\_V2/raw/main/Lab01/Instructions/L01\_WiFi.docx)
+* [MQTT](lab01-wifi/mqtt.md)
+* [NodeRED](lab01-wifi/nodered.md)
