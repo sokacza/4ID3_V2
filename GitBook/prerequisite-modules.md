@@ -1,8 +1,10 @@
 ---
-description: For your reference
+description: >-
+  For your reference, to brush up on skills before beginning the lab component
+  of this course.
 ---
 
-# Prerequisite Modules
+# Learning Modules
 
 ### Python Quick Start | LinkedIn Learning
 

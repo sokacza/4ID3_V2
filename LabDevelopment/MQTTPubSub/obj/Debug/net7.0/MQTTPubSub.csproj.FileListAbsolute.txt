@@ -1,0 +1,17 @@
+C:\Users\adama\OneDrive\Documents\Repositories\4ID3_V2\LabDevelopment\MQTTPubSub\obj\Debug\net7.0\MQTTPubSub.csproj.AssemblyReference.cache
+C:\Users\adama\OneDrive\Documents\Repositories\4ID3_V2\LabDevelopment\MQTTPubSub\obj\Debug\net7.0\MQTTPubSub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adama\OneDrive\Documents\Repositories\4ID3_V2\LabDevelopment\MQTTPubSub\obj\Debug\net7.0\MQTTPubSub.AssemblyInfoInputs.cache
+C:\Users\adama\OneDrive\Documents\Repositories\4ID3_V2\LabDevelopment\MQTTPubSub\obj\Debug\net7.0\MQTTPubSub.AssemblyInfo.cs
+C:\Users\adama\OneDrive\Documents\Repositories\4ID3_V2\LabDevelopment\MQTTPubSub\obj\Debug\net7.0\MQTTPubSub.csproj.CoreCompileInputs.cache
+C:\Users\adama\OneDrive\Documents\Repositories\4ID3_V2\LabDevelopment\MQTTPubSub\bin\Debug\net7.0\MQTTPubSub.exe
+C:\Users\adama\OneDrive\Documents\Repositories\4ID3_V2\LabDevelopment\MQTTPubSub\bin\Debug\net7.0\MQTTPubSub.deps.json
+C:\Users\adama\OneDrive\Documents\Repositories\4ID3_V2\LabDevelopment\MQTTPubSub\bin\Debug\net7.0\MQTTPubSub.runtimeconfig.json
+C:\Users\adama\OneDrive\Documents\Repositories\4ID3_V2\LabDevelopment\MQTTPubSub\bin\Debug\net7.0\MQTTPubSub.dll
+C:\Users\adama\OneDrive\Documents\Repositories\4ID3_V2\LabDevelopment\MQTTPubSub\bin\Debug\net7.0\MQTTPubSub.pdb
+C:\Users\adama\OneDrive\Documents\Repositories\4ID3_V2\LabDevelopment\MQTTPubSub\obj\Debug\net7.0\MQTTPubSub.csproj.CopyComplete
+C:\Users\adama\OneDrive\Documents\Repositories\4ID3_V2\LabDevelopment\MQTTPubSub\obj\Debug\net7.0\MQTTPubSub.dll
+C:\Users\adama\OneDrive\Documents\Repositories\4ID3_V2\LabDevelopment\MQTTPubSub\obj\Debug\net7.0\refint\MQTTPubSub.dll
+C:\Users\adama\OneDrive\Documents\Repositories\4ID3_V2\LabDevelopment\MQTTPubSub\obj\Debug\net7.0\MQTTPubSub.pdb
+C:\Users\adama\OneDrive\Documents\Repositories\4ID3_V2\LabDevelopment\MQTTPubSub\obj\Debug\net7.0\MQTTPubSub.genruntimeconfig.cache
+C:\Users\adama\OneDrive\Documents\Repositories\4ID3_V2\LabDevelopment\MQTTPubSub\obj\Debug\net7.0\ref\MQTTPubSub.dll
+C:\Users\adama\OneDrive\Documents\Repositories\4ID3_V2\LabDevelopment\MQTTPubSub\bin\Debug\net7.0\MQTTnet.dll

@@ -1,0 +1,17 @@
+C:\Users\adama\OneDrive\Documents\Repositories\4ID3_V2\LabDevelopment\MQTTSub\obj\Debug\net7.0\MQTTSub.csproj.AssemblyReference.cache
+C:\Users\adama\OneDrive\Documents\Repositories\4ID3_V2\LabDevelopment\MQTTSub\obj\Debug\net7.0\MQTTSub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adama\OneDrive\Documents\Repositories\4ID3_V2\LabDevelopment\MQTTSub\obj\Debug\net7.0\MQTTSub.AssemblyInfoInputs.cache
+C:\Users\adama\OneDrive\Documents\Repositories\4ID3_V2\LabDevelopment\MQTTSub\obj\Debug\net7.0\MQTTSub.AssemblyInfo.cs
+C:\Users\adama\OneDrive\Documents\Repositories\4ID3_V2\LabDevelopment\MQTTSub\obj\Debug\net7.0\MQTTSub.csproj.CoreCompileInputs.cache
+C:\Users\adama\OneDrive\Documents\Repositories\4ID3_V2\LabDevelopment\MQTTSub\bin\Debug\net7.0\MQTTSub.exe
+C:\Users\adama\OneDrive\Documents\Repositories\4ID3_V2\LabDevelopment\MQTTSub\bin\Debug\net7.0\MQTTSub.deps.json
+C:\Users\adama\OneDrive\Documents\Repositories\4ID3_V2\LabDevelopment\MQTTSub\bin\Debug\net7.0\MQTTSub.runtimeconfig.json
+C:\Users\adama\OneDrive\Documents\Repositories\4ID3_V2\LabDevelopment\MQTTSub\bin\Debug\net7.0\MQTTSub.dll
+C:\Users\adama\OneDrive\Documents\Repositories\4ID3_V2\LabDevelopment\MQTTSub\bin\Debug\net7.0\MQTTSub.pdb
+C:\Users\adama\OneDrive\Documents\Repositories\4ID3_V2\LabDevelopment\MQTTSub\bin\Debug\net7.0\MQTTnet.dll
+C:\Users\adama\OneDrive\Documents\Repositories\4ID3_V2\LabDevelopment\MQTTSub\obj\Debug\net7.0\MQTTSub.csproj.CopyComplete
+C:\Users\adama\OneDrive\Documents\Repositories\4ID3_V2\LabDevelopment\MQTTSub\obj\Debug\net7.0\MQTTSub.dll
+C:\Users\adama\OneDrive\Documents\Repositories\4ID3_V2\LabDevelopment\MQTTSub\obj\Debug\net7.0\refint\MQTTSub.dll
+C:\Users\adama\OneDrive\Documents\Repositories\4ID3_V2\LabDevelopment\MQTTSub\obj\Debug\net7.0\MQTTSub.pdb
+C:\Users\adama\OneDrive\Documents\Repositories\4ID3_V2\LabDevelopment\MQTTSub\obj\Debug\net7.0\MQTTSub.genruntimeconfig.cache
+C:\Users\adama\OneDrive\Documents\Repositories\4ID3_V2\LabDevelopment\MQTTSub\obj\Debug\net7.0\ref\MQTTSub.dll
