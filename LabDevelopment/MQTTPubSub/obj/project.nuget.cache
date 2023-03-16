@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Oklrqkfz3To7TtGirb+PprS1UrkxPOwfBvlTdKqtpK2OGb9jlBPjh8H7dToBr7lXIUzzIUqb98aoWRgkjPgxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adama\\OneDrive\\Documents\\Repositories\\4ID3_V2\\LabDevelopment\\MQTTPubSub\\MQTTPubSub.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adama\\.nuget\\packages\\mqttnet\\4.1.4.563\\mqttnet.4.1.4.563.nupkg.sha512"
+  ],
+  "logs": []
+}
