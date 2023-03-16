@@ -1,9 +1,9 @@
 # Table of contents
 
-* [About](README.md)
-* [Software](software.md)
-* [Learning Modules](prerequisite-modules.md)
-* [GitHub](https://github.com/sokacza/4ID3\_V2)
+* [❔ About](README.md)
+* [👨💻 Software](software.md)
+* [🔍 Learning Modules](prerequisite-modules.md)
+* [📂 Lab Repo](https://github.com/sokacza/4ID3\_V2)
 
 ## Lab00 - Pre Lab Setup
 
