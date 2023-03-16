@@ -3,7 +3,7 @@
 * [❔ About](README.md)
 * [👨💻 Software](software.md)
 * [🔍 Learning Modules](prerequisite-modules.md)
-* [📂 Lab Repo](https://github.com/sokacza/4ID3\_V2)
+* [📂 Lab GitHub](https://github.com/sokacza/4ID3\_V2)
 
 ## Lab00 - Pre Lab Setup
 
@@ -12,7 +12,7 @@
 
 ## Lab01 - WiFi
 
-* [L01 Explanation](https://youtu.be/Sjel6RM6SN8)
+* [🤯 Overview](https://youtu.be/Sjel6RM6SN8)
 * [Lab01 PDF](https://github.com/sokacza/4ID3\_V2/blob/main/Lab01/Instructions/L01\_WiFi.pdf)
 * [Lab01 Word](https://github.com/sokacza/4ID3\_V2/raw/main/Lab01/Instructions/L01\_WiFi.docx)
 * [MQTT](lab01-wifi/mqtt.md)
