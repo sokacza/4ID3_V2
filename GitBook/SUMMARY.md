@@ -23,3 +23,8 @@
 * [Lab02 PDF](https://github.com/sokacza/4ID3\_V2/blob/main/Lab02/Instructions/Lab02\_Bluetooth.pdf)
 * [Lab02 Word](https://github.com/sokacza/4ID3\_V2/raw/main/Lab02/Instructions/Lab02\_Bluetooth.docx)
 * [Bluetooth](lab02-bluetooth/bluetooth.md)
+
+## Lab03 - LoRa
+
+* [Lab03 PDF](https://github.com/sokacza/4ID3\_V2/blob/main/Lab03/Instructions/Lab03\_LoRa.pdf)
+* [Lab03 Word](https://github.com/sokacza/4ID3\_V2/raw/main/Lab03/Instructions/Lab03\_LoRa.docx)
