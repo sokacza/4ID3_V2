@@ -17,3 +17,9 @@
 * [Lab01 Word](https://github.com/sokacza/4ID3\_V2/raw/main/Lab01/Instructions/L01\_WiFi.docx)
 * [MQTT](lab01-wifi/mqtt.md)
 * [NodeRED](lab01-wifi/nodered.md)
+
+## Lab02 - Bluetooth
+
+* [Lab02 PDF](https://github.com/sokacza/4ID3\_V2/blob/main/Lab02/Instructions/Lab02\_Bluetooth.pdf)
+* [Lab02 Word](https://github.com/sokacza/4ID3\_V2/raw/main/Lab02/Instructions/Lab02\_Bluetooth.docx)
+* [Bluetooth](lab02-bluetooth/bluetooth.md)
